@@ -1,8 +1,7 @@
 public class Hangman {
     public Hangman()
     {
-        shithead
-        
+        bune yav   
     }
     public static void tryThis(String letter)
     {
